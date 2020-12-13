@@ -1,3 +1,5 @@
+This project is based on this repo: https://github.com/StephenGrider/redux-code/tree/master/widgets
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
