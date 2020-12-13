@@ -1,0 +1,27 @@
+@keyframes titlepulse {
+    0% { color: #EF32D9; }
+    50% { color: #155799; }
+    100% { color: #EF32D9; }
+}
+
+.main_title {
+    animation: titlepulse 2s infinite;
+    text-align: center;
+    padding: 30px;
+}
+
+.more_padding {
+    padding: 20px;
+}
+
+.translate_wrapper {
+    padding: 20px;
+}
+
+.more_padding_item {
+    padding: 20px !important;
+}
+
+.newColor {
+    background-color: aquamarine;
+}
